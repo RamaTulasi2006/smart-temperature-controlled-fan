@@ -62,8 +62,15 @@ The main objective of this project is to improve energy efficiency and provide a
 
 ---
 
-## 📸 Output / Circuit
-(Add your circuit diagram or output image here)
+## 📸 Circuit Diagram
+![Circuit](images/circuit.png)
+
+## 🔧 Hardware Setup
+![Setup](images/setup.png)
+
+## 📊 Output
+![Output](images/output.png)
+
 
 ---
 
