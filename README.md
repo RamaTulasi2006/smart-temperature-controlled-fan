@@ -63,13 +63,16 @@ The main objective of this project is to improve energy efficiency and provide a
 ---
 
 ## 📸 Circuit Diagram
-![Circuit](images/circuit.png)
+<img width="939" height="651" alt="image" src="https://github.com/user-attachments/assets/d8b548c1-4e4b-49bd-b678-8aefd2362900" />
+
 
 ## 🔧 Hardware Setup
-![Setup](images/setup.png)
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/eefd2ec9-6068-4f17-bd08-d72755929e56" />
+
 
 ## 📊 Output
-![Output](images/output.png)
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/16a56bd0-f589-409a-abd7-dd523176c0c1" />
+
 
 
 ---
